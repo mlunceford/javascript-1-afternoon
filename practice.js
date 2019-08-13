@@ -70,6 +70,8 @@ let dog = {
   age: 3,
   goodBoy: true
 }
+console.log(dog)
+
 //...access the dog's name from the object and assign it to a
 //variable called devMountainClassPet.
 

@@ -1,0 +1,583 @@
+[33mcommit e39821b1af70359f6d3a13164714b7c255fbd550[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mlunceford <mark7lunceford@gmail.com>
+Date:   Tue Aug 13 16:59:51 2019 -0600
+
+    finished this
+
+[33mcommit cd8b61b921305570c4242ca47d348f3916d21d41[m
+Author: mlunceford <mark7lunceford@gmail.com>
+Date:   Tue Aug 13 14:05:26 2019 -0600
+
+    workd
+
+[33mcommit a8b9973b45d93b04078065297659a44e34f41d0c[m
+Author: josh <joshborup@gmail.com>
+Date:   Tue Apr 23 12:11:15 2019 -0700
+
+    fixing error
+
+[33mcommit 0c6169ba9a156359adf4546309b51b56e40747e9[m
+Author: josh <joshborup@gmail.com>
+Date:   Tue Apr 23 12:10:17 2019 -0700
+
+    finished for the day
+
+[33mcommit c61d7bb96bc8918cc89f2ad9451b869667ebb446[m
+Author: Steven Isbell <steveni_92@msn.com>
+Date:   Thu Mar 28 16:44:03 2019 -0600
+
+    Update README.md
+
+[33mcommit 50c23373da7993eb51d13b42a55bb3a500a8f830[m
+Author: Steven Isbell <steveni_92@msn.com>
+Date:   Thu Mar 28 16:42:36 2019 -0600
+
+    Update README.md
+
+[33mcommit 0779e67caea9a145c38904821db6a166f4743085[m
+Merge: 2177339 8c3f95a
+Author: Steven Isbell <steveni_92@msn.com>
+Date:   Thu Mar 28 15:27:56 2019 -0600
+
+    Merge pull request #47 from DevMountain/jonathanmaydm-patch-1
+    
+    Remove problem 8 - arrow function
+
+[33mcommit 8c3f95a0fa2bad3c827f4b89ddb3c3f344bfe128[m[33m ([m[1;31morigin/jonathanmaydm-patch-1[m[33m)[m
+Author: Jonathan May <jonathan.may@devmountain.com>
+Date:   Tue Mar 12 16:44:02 2019 -0500
+
+    Fix typos
+
+[33mcommit 5aaef2f56ea8853db5fa6f20a672a3245cb499fb[m
+Author: Jonathan May <jonathan.may@devmountain.com>
+Date:   Mon Mar 11 21:13:32 2019 -0500
+
+    update tests
+
+[33mcommit cfe94fe8ae54a85e2f60c9a62f3d98d1b5625cf9[m
+Author: jonathanmaydm <44823071+jonathanmaydm@users.noreply.github.com>
+Date:   Mon Mar 11 21:06:58 2019 -0500
+
+    Remove arrow function problem
+
+[33mcommit 2177339d56f158787fe4e4de82e883c6ad3d8588[m
+Merge: 2028dad 80c3423
+Author: Bryan Smith <bryan.gsmith33@gmail.com>
+Date:   Tue Mar 5 13:16:10 2019 -0700
+
+    Merge pull request #46 from StyeEye/test_fixes
+    
+    Fixed minor test issues
+
+[33mcommit 80c34234664d019d774e81d86b869a3ec84b64fb[m
+Author: Placeholder <placeholder@notreal.com>
+Date:   Mon Mar 4 19:35:44 2019 -0700
+
+    Fixed minor test issues
+
+[33mcommit 2028dad2a078d31a01ef9c4826041da514b87515[m
+Merge: cba3452 1e6968e
+Author: Bryan Smith <bryan.gsmith33@gmail.com>
+Date:   Tue Feb 26 15:18:19 2019 -0700
+
+    Merge pull request #45 from DevMountain/curriculum-update
+    
+    updated assignment to new curriculum outline
+
+[33mcommit 1e6968e501e2307817669b9d8f4868700da1179e[m[33m ([m[1;31morigin/curriculum-update[m[33m)[m
+Author: Bryan Smith <bryan.gsmith33@gmail.com>
+Date:   Tue Feb 26 15:16:57 2019 -0700
+
+    updated assignment to new curriculum outline
+
+[33mcommit cba3452e4a7a2c00877f28601b8cf1605aaee5bc[m
+Author: Todd Rasband <todd.rasband@gmail.com>
+Date:   Wed Feb 20 14:13:32 2019 -0700
+
+    Update practice.js
+    
+    removed solution code from part 1
+
+[33mcommit 6117b891531ce128d036698bfaeb95316e42e694[m
+Author: Beth Telford <mrsbethtelford@gmail.com>
+Date:   Tue Jan 8 09:57:52 2019 -0700
+
+    finished problem one
+
+[33mcommit bfde39ec7bbc5e43f63c776e79a5a657c7daca44[m
+Merge: b54c8b2 10cc34d
+Author: Bryan Smith <bryan.gsmith33@gmail.com>
+Date:   Tue Nov 27 10:12:28 2018 -0700
+
+    Merge pull request #42 from KennyCrump/master
+    
+    Fixed test for problem 9
+
+[33mcommit 10cc34d56fdc6adec5009a7bd3a90215635b1562[m
+Author: Kenny Crump <kennycrump@Kennys-MacBook-Pro.local>
+Date:   Tue Nov 27 09:48:21 2018 -0700
+
+    back to initial practice page
+
+[33mcommit 98790bc5545a3dabffe5ec8ec70169f2f14d9052[m
+Author: Kenny Crump <kennycrump@Kennys-MacBook-Pro.local>
+Date:   Tue Nov 27 09:43:53 2018 -0700
+
+    updated test
+
+[33mcommit b54c8b2410b0d6b9bbaa59819f6690ca0653d5dd[m
+Merge: 544323d c44b98b
+Author: joeblank <joe.blank@live.com>
+Date:   Mon Sep 10 16:33:01 2018 -0600
+
+    Merge pull request #39 from travisallen6/master
+    
+    Changed jasmine test to check for number of times chocolate appears
+
+[33mcommit c44b98b168396ba130335f04e6561bb894fbc310[m
+Author: Travis Allen <travisallen6@gmail.com>
+Date:   Mon Sep 10 16:19:20 2018 -0600
+
+    Changed jasmine test to check for number of times chocolate appears
+
+[33mcommit 38af78afc5b55d0013f9050aba736c36734c0888[m
+Author: KennyCrump <kennycrump9@hotmail.com>
+Date:   Mon Aug 13 15:08:58 2018 -0600
+
+    Found a better way to do #4
+
+[33mcommit e798205edc256fd5ba871967084f9337781b01ea[m
+Author: KennyCrump <kennycrump9@hotmail.com>
+Date:   Mon Aug 13 14:49:21 2018 -0600
+
+    finished problems
+
+[33mcommit 0e84612fdc632667f018201ed39e7a4da9d9a59e[m
+Author: KennyCrump <kennycrump9@hotmail.com>
+Date:   Mon Aug 13 14:44:41 2018 -0600
+
+    finished practice problems
+
+[33mcommit 544323d53c39b60b0d488dc5b76c98a7c86494bc[m
+Author: = <webdev.jameslemire@gmail.com>
+Date:   Mon Jul 2 10:13:33 2018 -0600
+
+    JL master - Fix company logo link.
+
+[33mcommit 7d349796dea6203717efafe7189c3b76e9e0cdbf[m
+Author: Nick Hathaway <Nicholashathaway@gmail.com>
+Date:   Mon Jun 25 15:10:40 2018 -0600
+
+    update problem #1 regex to accept spaces
+
+[33mcommit 57f2c547ec15d5bbc0c05e926554c57a9030af58[m
+Author: Blair <blairslc@gmail.com>
+Date:   Mon May 7 11:16:59 2018 -0600
+
+    Changed practice.js
+
+[33mcommit 46c7756aae726a2dc4b7de2924369ad68c6e5d00[m
+Author: Blair <blairslc@gmail.com>
+Date:   Mon May 7 11:11:25 2018 -0600
+
+    Fixed Problem 2 Regex
+
+[33mcommit df0b5e2fa1518eb0909fa94005b78a37fd3cab7a[m
+Merge: 376ea19 d9b8c7d
+Author: Brack Carmony <brackcarmony@gmail.com>
+Date:   Mon Mar 12 19:57:02 2018 -0600
+
+    Merge pull request #38 from steven-isbell/master
+    
+    fix: updated test to match correct regex, formatting changes.
+
+[33mcommit d9b8c7d334472add7756cb904f2f90d8d12533cd[m
+Author: Steven Isbell <steven.isbell18@gmail.com>
+Date:   Mon Mar 12 20:35:09 2018 -0500
+
+    fix: updated test to match correct regex, formatting changes.
+
+[33mcommit 376ea19ee400c919c376784f6253c60d21c2d546[m
+Author: Kedirech <brackcarmony@gmail.com>
+Date:   Tue Mar 6 15:21:50 2018 -0700
+
+    Check for expression, decleration, or arrow function.  Remove dependency on var instead of let or const.
+
+[33mcommit 9b524a4092fb0bd3c2cde498816fd7c8dabf1c16[m
+Merge: f394d01 d924180
+Author: Missy Beutler <missyjrussell@gmail.com>
+Date:   Tue Mar 6 15:13:56 2018 -0700
+
+    Merge pull request #37 from DevMountain/modify
+    
+    fixed failing test
+
+[33mcommit d924180dd29c91256f90e5c2fdd7893f4441d876[m[33m ([m[1;31morigin/modify[m[33m)[m
+Author: Missy Beutler <missyjrussell@gmail.com>
+Date:   Tue Mar 6 15:12:52 2018 -0700
+
+    fixed failing test
+
+[33mcommit f394d01c4a5ab7342f90c30e7196cc391a77a2f2[m
+Author: Kedirech <brackcarmony@gmail.com>
+Date:   Mon Feb 26 13:21:00 2018 -0700
+
+    Added note about useing var on problems 2/3
+
+[33mcommit 67a0c83189f75d3a82104000bbcde6d6cf97cde5[m
+Merge: bbf9f13 17b73e6
+Author: Brack Carmony <brackcarmony@gmail.com>
+Date:   Thu Feb 8 13:50:37 2018 -0700
+
+    Merge pull request #35 from DevMountain/rework
+    
+    Reworked for afternoon assessment in place of old one
+
+[33mcommit 17b73e67c95e3cb3bc09582e9727cc7eca4149dc[m[33m ([m[1;31morigin/rework[m[33m)[m
+Author: emkeator <emkeator@gmail.com>
+Date:   Thu Feb 8 12:44:51 2018 -0700
+
+    updated for student-ready, some edits
+
+[33mcommit 18a7b6f68f3538083323bca257187fcd871607a8[m
+Author: emkeator <emkeator@gmail.com>
+Date:   Thu Feb 8 11:47:43 2018 -0700
+
+    reworked to include basics from basecamp
+
+[33mcommit bbf9f135ae0083dc494ec2014329e1dd77094009[m
+Author: jameslemire <webdev.jameslemire@gmail.com>
+Date:   Thu Jan 4 12:35:31 2018 -0700
+
+    JL master - Create a similar feel across the JS projects.
+
+[33mcommit 80ac114080e1e16ffc9c0fd1530c703bec747a2d[m
+Author: jameslemire <webdev.jameslemire@gmail.com>
+Date:   Thu Jan 4 12:22:40 2018 -0700
+
+    JL master - Create a similar feel across the JS projects.
+
+[33mcommit 9288390b1e296645aec0b8f3cc1b1f7acf0aa08e[m
+Author: jameslemire <webdev.jameslemire@gmail.com>
+Date:   Thu Jan 4 12:20:43 2018 -0700
+
+    JL master - Remove unused code in .idea
+
+[33mcommit 0327ebbfd26f2880622afb2933d19e65ada1dccf[m
+Author: jameslemire <webdev.jameslemire@gmail.com>
+Date:   Thu Jan 4 12:19:09 2018 -0700
+
+    JL master - Create a similar feel across the JS projects.
+
+[33mcommit e39003b684b5b12525c731af0cdb1b89780cd67b[m
+Author: jameslemire <webdev.jameslemire@gmail.com>
+Date:   Thu Jan 4 12:14:09 2018 -0700
+
+    JL master - Create a similar feel across the JS projects.
+
+[33mcommit bd0b22e31997947de9ef781559e43436b9e22e1b[m
+Author: jameslemire <webdev.jameslemire@gmail.com>
+Date:   Thu Jan 4 11:35:31 2018 -0700
+
+    JL master - README Standardization.
+
+[33mcommit 83cd4f1e925315093c1618d7cbcf10613df147ed[m
+Author: jameslemire <webdev.jameslemire@gmail.com>
+Date:   Thu Jan 4 11:35:05 2018 -0700
+
+    JL master - README Standardization.
+
+[33mcommit 1644298d90e12d3d5e63d29cd3bd515128c35934[m
+Merge: dca44ff 656ef75
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Tue Oct 24 16:50:22 2017 -0600
+
+    Merge pull request #32 from spcbrn/index-update
+    
+    added link to SpecRunner from index.html
+
+[33mcommit 656ef75290daabec3a5cb4699f045ec382e9e58c[m
+Author: Chris Lemke <spcbrn1@gmail.com>
+Date:   Tue Oct 24 16:32:16 2017 -0600
+
+    added link to SpecRunner from index.html
+
+[33mcommit dca44ff45b4bb73e8cd08ae841dfcf232cae6578[m
+Author: Ryan Walsh <ryan@thehatrack.net>
+Date:   Tue Mar 28 08:42:17 2017 -0600
+
+    fix formatting for new MD
+
+[33mcommit 61588e3340b1fc074ad38a2ffba47564d384ce8f[m
+Merge: f9089f7 923c01a
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Thu Nov 17 08:40:27 2016 -0700
+
+    Merge pull request #18 from smrtsmrf/master
+    
+    remove script tag for closures.js and clarify instruction for specRunner
+
+[33mcommit 923c01a9a50e7194d6a17f42c441522425a73447[m
+Author: Candice Humpherys <smrtsmrf@gmail.com>
+Date:   Fri Aug 26 16:30:56 2016 -0600
+
+    clarified instruction for specRunner
+
+[33mcommit e43598e684e4c6fc86b1e4cfa2d6e241db3fb48e[m
+Author: Candice Humpherys <smrtsmrf@gmail.com>
+Date:   Fri Aug 26 14:12:49 2016 -0600
+
+    remove script tag for closures.js
+
+[33mcommit f9089f7f26e44d0ef258c1bca680e03072096417[m
+Author: Brack Carmony <brackcarmony@gmail.com>
+Date:   Thu May 12 14:31:27 2016 -0600
+
+    Remove closures from this project
+
+[33mcommit ce74bdbb052eabb4d4ac4305710266de3560bca5[m
+Author: Brack Carmony <brackcarmony@gmail.com>
+Date:   Thu May 12 14:30:47 2016 -0600
+
+    Remove closures from this project
+
+[33mcommit 77a414f7bf3cc40e0ce2363710cbcdae520133e0[m
+Author: bencallis1 <bencallis1@gmail.com>
+Date:   Wed May 11 15:13:18 2016 -0600
+
+    removed code love and codefriend
+
+[33mcommit 7b58d314290911e32ede8d4cbc8ecfccef4eab66[m
+Author: Jeremy R <jeremy@devmounta.in>
+Date:   Mon Mar 28 10:21:16 2016 -0600
+
+    adding problem number
+
+[33mcommit f526a9f92451886a97f93fec1261aeab7fb81835[m
+Author: Jeremy R <jeremy@devmounta.in>
+Date:   Fri Mar 25 15:33:04 2016 -0600
+
+    fixing syntax typos
+
+[33mcommit 6f754a6e8f57d1b08f87053f8ecfc3639cd5674e[m
+Merge: 5591027 90731f3
+Author: Jeremy R <jeremy@devmounta.in>
+Date:   Fri Mar 25 15:26:37 2016 -0600
+
+    Merge branch 'master' of https://www.github.com/DevMountain/JS-Basics
+
+[33mcommit 90731f3089c17f22296f138622e41ce939a4b186[m
+Author: bencallis1 <bencallis1@gmail.com>
+Date:   Thu Mar 24 14:49:04 2016 -0600
+
+    Added a couple more closure problems
+
+[33mcommit 30f3b18ad23a24a78183aec1992c998ac1567020[m
+Author: bencallis1 <bencallis1@gmail.com>
+Date:   Wed Mar 23 16:52:15 2016 -0600
+
+    removed code love and added the counter factory problem
+
+[33mcommit 53237fe2467b077dbdbb3f9bd35064f9c2d4ad71[m
+Merge: 6ac2cae 2dd9b2d
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Fri Feb 12 12:27:47 2016 -0700
+
+    Merge pull request #17 from joshualeduc/master
+    
+    clarified fncounter with scott
+
+[33mcommit 2dd9b2d23f0eff9f291184f155cc46cd70149f6a[m
+Author: Joshua LeDuc <joshualeduc@gmail.com>
+Date:   Fri Feb 12 12:03:12 2016 -0700
+
+    put fncounter back with codelove
+
+[33mcommit 7113e04ebcfbd4735073bbf807734b1ab8d6575e[m
+Author: Joshua LeDuc <joshualeduc@gmail.com>
+Date:   Fri Feb 12 11:42:38 2016 -0700
+
+    grade fnCounter after makeCoutner
+
+[33mcommit 904f1e37cdabb57253abb6c81f046d0ec4e23ff3[m
+Author: Joshua LeDuc <joshualeduc@gmail.com>
+Date:   Fri Feb 12 11:35:06 2016 -0700
+
+    clarified fncounter with scott
+
+[33mcommit 5591027b3b6f68a502e37e4326e640cc50f29cb2[m
+Merge: 8c7430f 6ac2cae
+Author: Jeremy R <jeremy@devmounta.in>
+Date:   Fri Feb 5 13:47:11 2016 -0700
+
+    Merge branch 'master' of https://www.github.com/DevMountain/JS-Basics
+
+[33mcommit 6ac2caee3da2dfc1daa3ce18c8f151588b89e82b[m
+Merge: 6d6c502 b86dcb7
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Fri Dec 4 11:42:42 2015 -0700
+
+    Merge pull request #11 from DevMountain/tests
+    
+    Tests
+
+[33mcommit b86dcb75b9016c2a9b88b7c323b62db768a2bdd4[m[33m ([m[1;31morigin/tests[m[33m)[m
+Author: jasondawson <jason.c.dawson@gmail.com>
+Date:   Fri Dec 4 11:41:25 2015 -0700
+
+    fix typo
+
+[33mcommit 19aae316a8f9ca4ad999f26f5a651b18a9011a1f[m
+Author: jasondawson <jason.c.dawson@gmail.com>
+Date:   Fri Dec 4 11:39:55 2015 -0700
+
+    finished tests
+
+[33mcommit 6d6c50217db033e72ce20866e59f9e6dbaf1ac1c[m
+Merge: 914afc1 8851fd4
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Thu Dec 3 22:00:46 2015 -0700
+
+    Merge pull request #9 from JoeH8rs/master
+    
+    Update closures.js
+
+[33mcommit 8851fd47dc4c408dc5b1523562e6908e843469c2[m
+Author: JoeH8rs <joe@h8.rs>
+Date:   Thu Dec 3 21:50:32 2015 -0700
+
+    Update closures.js
+
+[33mcommit 914afc1f9347b5fce6429e8b43aefa50242b9c40[m
+Merge: d9d4a13 0328f4c
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Thu Dec 3 19:42:58 2015 -0700
+
+    Merge pull request #8 from JoeH8rs/master
+    
+    Update fns-and-scope.js
+
+[33mcommit 0328f4c304a1581d48f97a64685457be817e0efe[m
+Author: JoeH8rs <joe@h8.rs>
+Date:   Thu Dec 3 18:57:54 2015 -0700
+
+    Update fns-and-scope.js
+
+[33mcommit 7501448f57de262bf4d8dd603d82f846296411ab[m
+Author: jasondawson <jason.c.dawson@gmail.com>
+Date:   Wed Dec 2 14:56:44 2015 -0700
+
+    added tests for fns-and-scope.js
+
+[33mcommit d9d4a13127a3b18e3ef7b7ebe5c07d04d24fcd4c[m
+Author: cahlan <cahlan@gmail.com>
+Date:   Sat Nov 21 22:16:05 2015 -0600
+
+    cleaned up typos + formatting
+
+[33mcommit 4bcd540f052890a98cebed6e3d903a4c32e516f4[m
+Author: cahlan <cahlan@gmail.com>
+Date:   Sat Nov 21 21:42:18 2015 -0600
+
+    adding header, contributions, copyright
+
+[33mcommit 8c7430fa54e5c097cf1869898ad85ecfaa786a69[m
+Author: Jeremy R <jeremy@devmounta.in>
+Date:   Mon Oct 19 13:51:47 2015 -0600
+
+    Adding an index file for debugging
+
+[33mcommit 8fa658416153cd7e7ef44de67ab5fcc748b5d797[m
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Mon Oct 19 13:50:27 2015 -0600
+
+    Update README.md
+
+[33mcommit e80577a2c126234926a642d9c02073c4af3a974a[m
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Mon Oct 19 13:50:16 2015 -0600
+
+    Update README.md
+
+[33mcommit 2af3d34df462a012719a0d9c771267e28ce4246e[m
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Mon Oct 19 13:49:47 2015 -0600
+
+    Update README.md
+
+[33mcommit 86fbf6b5907655d690fb05d0df42fdf7aa4c7f77[m
+Author: Jeremy R <jeremy@devmounta.in>
+Date:   Mon Oct 19 13:49:10 2015 -0600
+
+    Adding an index file for debugging
+
+[33mcommit bbf9e66144e1250a43c3931fc4d7720e2a391353[m
+Merge: 59d60fc 5888ddb
+Author: Jeremy Robertson <sparticus7n7@yahoo.com>
+Date:   Tue Oct 13 15:04:43 2015 -0600
+
+    Merge pull request #7 from mikkelrd/patch-1
+    
+    Hopefully clarified the "only once" function
+
+[33mcommit 5888ddb0ab1c041fd89470b9c0fb4e754fcf2983[m
+Author: mikkelrd <mikkeld@gmail.com>
+Date:   Wed Sep 2 12:51:49 2015 -0600
+
+    Hopefully clarified the "only once" function
+
+[33mcommit 59d60fcf78127fe98f46a8ebd0d24301e33bfcf8[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Fri May 22 08:36:35 2015 -0600
+
+    Update README.md
+
+[33mcommit 6de4ca7a979b89383ed1415bb4f381a6a7b80bb1[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Fri May 22 08:36:07 2015 -0600
+
+    Update README.md
+
+[33mcommit d5f5628444b2904b4a0ca73917fd18a91db615f3[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Fri May 22 08:34:43 2015 -0600
+
+    Add more problems
+
+[33mcommit 9c658a28ce28ceb5c427054dc3b2acf8c43778c5[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Wed Jan 14 19:42:02 2015 -0700
+
+    Update practice.js
+
+[33mcommit 7d7c59e75ce30a7523b9ffe42fdfd87ed78573b5[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Fri Jan 9 08:19:14 2015 -0700
+
+    Update README.md
+
+[33mcommit b6c9232e0992acf7d143ee8444417f7c8683709f[m
+Merge: 51f6fb3 f126a14
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Tue Dec 2 09:58:53 2014 -0700
+
+    Merge branch 'master' of https://github.com/DevMountain/JS-Basics
+
+[33mcommit 51f6fb35fd6127ffa6d02cb267b990bfe7055e64[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Tue Dec 2 09:58:50 2014 -0700
+
+    Add problems
+
+[33mcommit f126a14932fe79629de719d3362d808a1221c80f[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Tue Dec 2 09:22:12 2014 -0700
+
+    Update README.md
+
+[33mcommit b119f6118bab940000fb3545b8a1766ee9a1a3dc[m
+Author: Tyler McGinnis <tylermcginnis33@gmail.com>
+Date:   Mon Dec 1 23:51:33 2014 -0700
+
+    Initial commit
